@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<data>
+  <vico>3</vico>
+  <vis>
+	<vi>
+		<id>1</id>
+		<name>Script Kiddie</name>
+		<att>15</att>
+		<hp>400</hp>
+		<xp>26</xp>
+	</vi>
+	<vi>
+		<id>2</id>
+		<name>HyperText</name>
+		<att>17</att>
+		<hp>420</hp>
+		<xp>28</xp>
+	</vi>
+	<vi>
+		<id>3</id>
+		<name>CLIX</name>
+		<att>24</att>
+		<hp>700</hp>
+		<xp>35</xp>
+	</vi>
+   </vis>
+</data>

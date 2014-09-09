@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<data>
+  <vico>3</vico>
+  <vis>
+	<vi>
+		<id>1</id>
+		<name>Thief</name>
+		<att>10</att>
+		<hp>200</hp>
+		<xp>20</xp>
+	</vi>
+	<vi>
+		<id>2</id>
+		<name>Punk</name>
+		<att>12</att>
+		<hp>220</hp>
+		<xp>22</xp>
+	</vi>
+	<vi>
+		<id>3</id>
+		<name>Golem</name>
+		<att>16</att>
+		<hp>400</hp>
+		<xp>25</xp>
+	</vi>
+   </vis>
+</data>

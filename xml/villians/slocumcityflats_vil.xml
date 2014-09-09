@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<data>
+  <vico>3</vico>
+  <vis>
+	<vi>
+		<id>1</id>
+		<name>HVill1</name>
+		<att>6</att>
+		<hp>200</hp>
+		<xp>30</xp>
+	</vi>
+	<vi>
+		<id>2</id>
+		<name>HVill2</name>
+		<att>7</att>
+		<hp>220</hp>
+		<xp>35</xp>
+	</vi>
+	<vi>
+		<id>3</id>
+		<name>HVill3</name>
+		<att>14</att>
+		<hp>400</hp>
+		<xp>50</xp>
+	</vi>
+   </vis>
+</data>

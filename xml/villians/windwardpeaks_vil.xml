@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<data>
+  <vico>3</vico>
+  <vis>
+	<vi>
+		<id>1</id>
+		<name>Eagle</name>
+		<att>2</att>
+		<hp>100</hp>
+		<xp>10</xp>
+	</vi>
+	<vi>
+		<id>2</id>
+		<name>Wild Dog</name>
+		<att>3</att>
+		<hp>120</hp>
+		<xp>12</xp>
+	</vi>
+	<vi>
+		<id>3</id>
+		<name>Hamburger</name>
+		<att>7</att>
+		<hp>200</hp>
+		<xp>17</xp>
+	</vi>
+   </vis>
+</data>
